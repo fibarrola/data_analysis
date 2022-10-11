@@ -3,3 +3,4 @@ numpy
 pandas
 black
 flake8
+kaleido
